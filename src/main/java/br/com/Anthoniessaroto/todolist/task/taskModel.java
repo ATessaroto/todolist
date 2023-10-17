@@ -36,7 +36,7 @@ public class taskModel
     {
         if(title.length() > 50)
         {
-            throw new Exception("O campo title deve conter no maximo 50 caractertes!");
+            throw new Exception("O campo title deve conter no maximo 50 caractertes!!");
         }
 
         this.title = title;
