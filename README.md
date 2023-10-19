@@ -22,7 +22,7 @@ The application was built using essential tools and technologies, including:
 
 ### API Link on Render: 
 
-User registration: https://todolist-java-7i2d.onrender.com/users/
+#### User registration: https://todolist-java-7i2d.onrender.com/users/
 Body: 
 {
     "name":"Your Name",
@@ -30,7 +30,7 @@ Body:
     "password": "password"
 }
 
-Task Creation: https://todolist-java-7i2d.onrender.com/tasks/
+#### Task Creation: https://todolist-java-7i2d.onrender.com/tasks/
 Body:
 {
     "description": "Description",
